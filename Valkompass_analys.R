@@ -6,7 +6,7 @@ library(tidyverse)
 library(lapply)
 library(ggplot2)
 
-
+#KEEP IN MIND THAT IM USED TO CODING IN PYTHON AND R SUCKS AT FOR LOOPS. THIS CODE DID THE WORK BUT IS REALLY UGLY. GO TO MY PYTHON SCRIPT FOR HOT STUFF. 
 
 #setting up connection
 
