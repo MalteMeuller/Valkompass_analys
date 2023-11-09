@@ -1,6 +1,6 @@
 # Valkompass_undersökning
 Kod till Python(algoritm) och R(datahantering)
 
-Detta är koden för den algoritm som jag skapade som automatiserar att svara på valkompasser. Använder mig främst av Python men använde SQL som databas och R för analys. 
-Inlägget går att läsa här:
+This is the code used to analyse the bias in election compasses. I am using a webscraping/web automation technique to simulate respondents. 
+The published article about this could be found here: (in Swedish)
 https://ekonomistas.se/2022/09/08/stora-skillnader-mellan-valkompasser/
